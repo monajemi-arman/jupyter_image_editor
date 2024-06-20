@@ -1,0 +1,9 @@
+scipy
+torch
+torchvision
+PIL
+ipywidgets
+matplotlib
+cv2
+scikit-image
+
